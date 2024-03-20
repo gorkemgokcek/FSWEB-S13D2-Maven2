@@ -20,6 +20,7 @@ public class Main {
         System.out.println(numberToWords(34));
     }
 
+
     public static boolean isPalindrome(int num) {
         int originalNum = num;
         int reversedNum = 0;
